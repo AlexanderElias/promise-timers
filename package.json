@@ -1,0 +1,33 @@
+{
+  "name": "promise-timers",
+  "version": "1.0.0",
+  "description": "Promise Timers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderElias/promise-timers.git"
+  },
+  "keywords": [
+    "promise",
+    "promises",
+    "time",
+    "timer",
+    "timers",
+    "then",
+    "catch",
+    "set",
+    "timeout",
+    "interval",
+    "setTimeout",
+    "setInterval"
+  ],
+  "author": "Alexander Elias",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/AlexanderElias/promise-timers/issues"
+  },
+  "homepage": "https://github.com/AlexanderElias/promise-timers#readme"
+}
