@@ -1,3 +1,8 @@
+
+
+# DEPRECATED (This project has been moved to https://github.com/AlexanderElias/promise-tool)
+
+
 # Promise Timers
 A promised library of timers for Node.js and the browser. If you know the WindowTimers and promises you know how to use PromiseTimers.
 
